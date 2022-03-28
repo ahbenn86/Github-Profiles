@@ -3,6 +3,7 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   background-color: #ffffff;
   color: white;
@@ -10,7 +11,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 80vh;
   overflow: hidden;
   display: flex;
   margin: 0;
